@@ -27,5 +27,5 @@ https://vaibhavsr007.netlify.app
 
 ## Authors
 
-- [@vaibhavsr007](https://www.github.com/vaibhavsr007)
+[@vaibhavsr007](https://www.github.com/vaibhavsr007)
 
